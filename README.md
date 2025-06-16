@@ -1,1 +1,1 @@
-# CommunityResources
+# CommunityResourcesProject
